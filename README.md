@@ -10,6 +10,10 @@ In this repository all media for Fireblade is versioned.
 
 <img src="media/Badge.svg" width="200px"/> <img src="media/Badge.svg" width="200px" style="background-color: #000"/>
 
+### 🏞️ Wallpaper
+
+<img src="media/Wallpaper-iPhoneX.svg" width="200px"/>
+
 ## 🔏 License
 
 This project and all its files are licensed under [CC BY-ND 3.0 DE](https://creativecommons.org/licenses/by-nd/3.0/de/) - see the [LICENSE](LICENSE) file for details
