@@ -3,13 +3,20 @@
     <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
     <title>Badge</title>
     <desc>Created with Sketch.</desc>
-    <defs></defs>
+    <defs>
+        <rect id="path-1" x="0" y="426" width="428" height="149"></rect>
+    </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Logo-2019-+-Text" transform="translate(-60.000000, -18.000000)">
-            <g id="Badge" transform="translate(57.000000, 18.000000)">
-                <g id="Frame" transform="translate(3.000000, 0.000000)">
-                    <rect id="Rectangle" stroke="#222222" stroke-width="5" x="2.5" y="2.5" width="423" height="570"></rect>
-                    <rect id="Rectangle-2" fill="#222222" x="2" y="426" width="425" height="149"></rect>
+        <g id="Badge-2019" transform="translate(-65.000000, -32.000000)">
+            <g id="Badge" transform="translate(62.000000, 32.000000)">
+                <g transform="translate(3.000000, 0.000000)" id="Group">
+                    <g>
+                        <rect id="Bottom" stroke="#222222" stroke-width="5" x="2.5" y="2.5" width="423" height="421"></rect>
+                        <g id="Top">
+                            <use fill="#222222" fill-rule="evenodd" xlink:href="#path-1"></use>
+                            <rect stroke="#222222" stroke-width="1" x="0.5" y="426.5" width="427" height="148"></rect>
+                        </g>
+                    </g>
                 </g>
                 <g id="FirebladeLogo2019">
                     <g id="Logo-v1">
