@@ -13,6 +13,7 @@
                 </g>
                 <g id="FirebladeLogo2019">
                     <g id="Logo-v1">
+                        <rect id="Frame" x="0" y="0" width="426" height="426"></rect>
                         <g id="Logo" transform="translate(67.000000, 35.000000)">
                             <polygon id="Left" fill="#666666" points="68 0 68 375 0 306 0 0"></polygon>
                             <polygon id="BottomRight" fill="#F5A623" points="171 206 171 303 99 375 99 206"></polygon>
