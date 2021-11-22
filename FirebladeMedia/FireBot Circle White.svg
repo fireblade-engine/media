@@ -1,0 +1,27 @@
+<svg width="640" height="640" viewBox="0 0 640 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_0_128)">
+<circle cx="321" cy="320" r="300" fill="white"/>
+<path d="M289.4 466.318C289.4 446.964 305.089 431.274 324.443 431.274C343.797 431.274 359.487 446.964 359.487 466.318V532.938C359.487 552.297 343.793 568 324.443 568C305.089 568 289.4 552.311 289.4 532.957V466.318Z" stroke="#4A4A4A" stroke-width="16"/>
+<path d="M222.861 398.437C222.861 398.437 207.376 393.039 191.161 406.152C174.947 419.265 172.356 458.872 172.356 458.872" stroke="#4A4A4A" stroke-width="16"/>
+<path d="M421.435 398.437C421.435 398.437 439.031 393.039 457.457 406.152C475.883 419.265 478.826 458.872 478.826 458.872" stroke="#4A4A4A" stroke-width="16"/>
+<rect x="221.678" y="342.854" width="206.678" height="183.807" rx="42" fill="white" stroke="black" stroke-width="16"/>
+<path d="M309.195 384.563V383.063H307.695H288.09H286.59V384.563V472.822V473.436L287.022 473.874L306.626 493.776L309.195 496.383V492.723V384.563Z" fill="#666666" stroke="black" stroke-width="3"/>
+<path d="M338.89 443.979V442.479H337.39H316.632H315.132V443.979V492.723V496.345L317.693 493.783L338.451 473.017L338.89 472.577V471.956V443.979Z" fill="#F5A623" stroke="black" stroke-width="3"/>
+<path d="M358.647 414.451L361.121 411.906H357.571H316.632H315.132V413.406V434.172V435.672H316.632H337.39H338.024L338.466 435.218L358.647 414.451Z" fill="#666666" stroke="black" stroke-width="3"/>
+<path d="M386.909 385.6L389.335 383.063H385.825H316.632H315.132V384.563V404.464V405.964H316.632H366.797H367.438L367.881 405.501L386.909 385.6Z" fill="#222222" stroke="black" stroke-width="3"/>
+<path d="M321.574 153.994V127.009" stroke="#F5A623" stroke-width="16" stroke-linecap="square"/>
+<ellipse cx="321.574" cy="96.0045" rx="30.9913" ry="31.0045" stroke="#F5A623" stroke-width="16"/>
+<rect x="131" y="214.243" width="380" height="97.6831" rx="45" stroke="#4A4A4A" stroke-width="16"/>
+<rect x="179.208" y="170.607" width="295.061" height="183.807" rx="42" fill="white" stroke="black" stroke-width="16"/>
+<ellipse cx="261.887" cy="253.324" rx="30.9913" ry="31.0045" stroke="#4A4A4A" stroke-width="16"/>
+<ellipse cx="385.852" cy="252.175" rx="30.9913" ry="31.0045" stroke="#4A4A4A" stroke-width="16"/>
+<path d="M298.618 318.778H297.47" stroke="#4A4A4A" stroke-width="16" stroke-linecap="square"/>
+<path d="M323.296 318.778H322.148" stroke="#4A4A4A" stroke-width="16" stroke-linecap="square"/>
+<path d="M347.4 318.778H346.253" stroke="#4A4A4A" stroke-width="16" stroke-linecap="square"/>
+</g>
+<defs>
+<clipPath id="clip0_0_128">
+<rect width="640" height="640" fill="white"/>
+</clipPath>
+</defs>
+</svg>
